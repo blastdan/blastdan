@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MULTI STAGE PIPELINES & AZURE DEVOPS](https://dev.to/focisolutions/multi-stage-pipelines-azure-devops-2b3p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
