@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [K8s in KIND](https://dev.to/focisolutions/k8s-in-kind-1c)
 - [MULTI STAGE PIPELINES & AZURE DEVOPS](https://dev.to/focisolutions/multi-stage-pipelines-azure-devops-2b3p)
 <!-- BLOG-POST-LIST:END -->
 
